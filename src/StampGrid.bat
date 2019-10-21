@@ -1,0 +1,1 @@
+start "" StampGrid.exe 256 288
